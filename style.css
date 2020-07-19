@@ -9,12 +9,14 @@ body {
 
 .computer-container {
   position: relative;
+  top: 50%;
   -webkit-transform: scale(0.8);
           transform: scale(0.8);
 }
 
 .computer-monitor {
   margin: 0 auto;
+  top: 50%;
   height: 660px;
   width: 1030px;
   background-color: #37474F;

@@ -6,7 +6,8 @@
 }
 .webgl-content 
 {
-	position: relative; 
+	position: relative;
+	top: 30%;
 	left: 50%; 
 	-webkit-transform: translate(-50%, -50%); 
 	transform: translate(-50%, -50%);
@@ -15,6 +16,7 @@
 .webgl-content .logo, .progress 
 {
 	position: relative; 
+	top: 30%;
 	left: 50%; 
 	-webkit-transform: translate(-50%, -50%); 
 	transform: translate(-50%, -50%);

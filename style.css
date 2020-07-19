@@ -15,7 +15,7 @@ body {
 .computer-monitor {
   margin: 0 auto;
   height: 540px;
-  width: 960px;
+  width: 980px;
   background-color: #37474F;
   border: 20px solid #546E7A;
   border-top-right-radius: 2rem;
@@ -29,7 +29,7 @@ body {
   margin: 0 auto;
   border-bottom-right-radius: 2rem;
   border-bottom-left-radius: 2rem;
-  width: 960px;
+  width: 980px;
   height: 100px;
   background-color: #F5F5F5;
 }
